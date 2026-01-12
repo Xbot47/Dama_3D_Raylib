@@ -8,9 +8,15 @@ Este é um projeto de jogo de Dama em 3D desenvolvido em linguagem C, utilizando
 - **Gráficos 3D:** Renderização do tabuleiro e peças com texturas procedurais.
 - **Regras Oficiais:** Movimentação, captura obrigatória e promoção de Dama.
 
+## Requisitos para rodar o jogo
+
+Compilador GCC (MinGW)
+
+Biblioteca Raylib
+
 ## Como Compilar e Rodar (VS Code)
 
-Para rodar este projeto, você precisa ter o **VS Code**, o compilador **GCC (MinGW)** e a biblioteca **Raylib** instalados/configurados no seu ambiente.
+Para rodar este projeto, você precisa ter o **VS Code**, o compilador **GCC (MinGW)** e a biblioteca **Raylib** instalados/configurados no seu ambiente. Com a pasta aberta e o arquivo .c, pressione o F5 que irá compilar.
 
 ### Opção 1: Pelo Terminal Integrado (Recomendado)
 
